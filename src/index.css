@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.remove-scroll-bar {
+    scrollbar-width: none;
+  }
+  
